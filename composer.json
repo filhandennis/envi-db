@@ -1,0 +1,14 @@
+{
+    "name": "filhandennis/envi-db",
+    "description": "submit .env to database with semantic-ui and laravolt",
+    "type": "project",
+    "require": {
+        "laravolt/semantic-form": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "Filhan Dennis",
+            "email": "filhandennis@hotmail.com"
+        }
+    ]
+}
